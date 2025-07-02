@@ -12,6 +12,7 @@ I am 37 years old and working as engineer for safety and labor protection. Also 
 ## Skills
 - HTML
 - bash/sh scripting
+- dedicated servers deployment (Windows/Linux, virtual and hardware)
 - php (in progress...)
 *****
 ## Code example
