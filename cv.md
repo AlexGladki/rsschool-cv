@@ -1,4 +1,4 @@
-# Alexander Hladki ![какое-то фото](/images/photo.png)
+# Alexander Hladki ![какое-то фото](/images/photo.png){width=100 height=100}
 ## Contact info
 * **Phone:** _+375 29 3 119 644_
 * **email:** alexander.gladki@gmail.com
