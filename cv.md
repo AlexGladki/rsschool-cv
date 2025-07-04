@@ -1,9 +1,9 @@
-# Alexander Hladki
+# Alexander Hladki ![какое-то фото](/images/photo.png)
 ## Contact info
-* Phone: +375 29 3 119 644
-* email: alexander.gladki@gmail.com
-* Telegram: [@barn_burner] (https://t.me/barn_burner "Link to my TG profile")
-* Jabber: karrham@xmpp.ru
+* **Phone:** _+375 29 3 119 644_
+* **email:** alexander.gladki@gmail.com
+* **Telegram:** [@barn_burner] (https://t.me/barn_burner "Link to my TG profile")
+* **Jabber:** karrham@xmpp.ru
 ## About me
 I am 37 years old and working as engineer for safety and labor protection. Also i work as freelancer sysadmin for local small business more than 3 years.
 ## Skills
@@ -11,7 +11,6 @@ I am 37 years old and working as engineer for safety and labor protection. Also 
 - bash/sh scripting
 - dedicated servers deployment (Windows/Linux, virtual and hardware)
 - php (in progress...)
-*****
 ## Code example
 
 ## Education
