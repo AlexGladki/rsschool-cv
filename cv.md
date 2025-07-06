@@ -12,6 +12,12 @@ I am 37 years old and working as engineer for safety and labor protection. Also 
 - dedicated servers deployment (Windows/Linux, virtual and hardware)
 - php (in progress...)
 ## Code example
+```
+function multiply(a, b){
+let result =  a * b;
+  return result;
+}
+```
 
 ## Education
 * International Sakharov Environmental University (2006-2011)
