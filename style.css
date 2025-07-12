@@ -1,9 +1,137 @@
 * {
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Flex', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth; 
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 300px;
+  min-height: 100vh;
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #143250;
 }
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  min-height: 50px;
+}
+
+.header-container {
+  background-color: #6661ff2e;
+}
+
+.nav-items {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-link {
+  position: relative;
+  padding: 0 12px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 50px;
+  color: navy; 
+}
+
+.main {
+  margin-bottom: auto;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.section-name {
+  width: 95%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.section-name-text {  
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 5px;
+  color: mediumblue;
+}
+
+.section-name-avatar {
+  width: 150px;
+  height:150px;
+  border-radius: 50%;
+}
+
+.section {
+  min-width: 300px;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: lightyellow;
+}
+
+.pre {
+  width: 100%;
+  background-color: black;
+}
+
+.code {
+  background-color: black;
+  color: #228B22;
+  font-family: monospace;
+  font-weight: 600;
+}
+
+.footer {
+  background-color: #6661ff2e;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.rss-link {
+  width: 121px;
+  height: 45px;
+  background-image: url("./images/rs-school.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/*.roboto-flex-<uniquifier> {
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+}*/
